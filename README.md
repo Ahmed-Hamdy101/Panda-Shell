@@ -1,8 +1,6 @@
 
 ## Welcome in Sleepy-Panda Hub
-<p align="center" width="100%">
-    <img width="33%" src="shorturl.at/anoO9">
-</p>
+
 ![images](shorturl.at/anoO9)
 
 ### How do use this card design:
