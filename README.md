@@ -1,7 +1,7 @@
 
 <p align="center">
-<img src="https://lh3.googleusercontent.com/pw/AL9nZEUCzmajmieNCvP6dHs1CLHMSX5O9X7VmDmGgQQXlTrY1xknikbuH74r5XH_-cOWn9hjVszqXspjraWyHcKMqeqzdbRRztQ4Vz8Xf7oOk8x7VFlG9a3hyWDFapdUcELNtoYOwYwm0A-B3mkNUHNobROB=w598-h667-no?authuser=0" width="60%">
-<h3> Welcome in Panda-Shell</h3>    
+<img src="https://lh3.googleusercontent.com/pw/AL9nZEUCzmajmieNCvP6dHs1CLHMSX5O9X7VmDmGgQQXlTrY1xknikbuH74r5XH_-cOWn9hjVszqXspjraWyHcKMqeqzdbRRztQ4Vz8Xf7oOk8x7VFlG9a3hyWDFapdUcELNtoYOwYwm0A-B3mkNUHNobROB=w598-h667-no?authuser=0" width="50%">
+<h1 align="center"> Welcome in Panda-Shell</h1>    
 </p>
 
 
