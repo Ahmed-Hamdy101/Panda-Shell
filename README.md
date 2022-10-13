@@ -1,7 +1,6 @@
 
 ## Welcome in Sleepy-Panda Hub
-
-![Picture](https://photos.app.goo.gl/bXRMfaHJZ48jTP4j7)
+![Picture](https://lh3.googleusercontent.com/pw/AL9nZEUCzmajmieNCvP6dHs1CLHMSX5O9X7VmDmGgQQXlTrY1xknikbuH74r5XH_-cOWn9hjVszqXspjraWyHcKMqeqzdbRRztQ4Vz8Xf7oOk8x7VFlG9a3hyWDFapdUcELNtoYOwYwm0A-B3mkNUHNobROB=w598-h667-no?authuser=0)
  
 ### How do use this card design:
 - Download MDB From   [MDB](https://mdbootstrap.com/docs/standard/getting-started/installation/)
