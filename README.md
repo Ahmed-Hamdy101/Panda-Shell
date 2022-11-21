@@ -8,7 +8,7 @@
 <h1 align="center">  🔌 Requirement </h1>    
 
 <figure>
-<img align="left" src="Images/mobile%20(6).png" >MDB ⚒ </a></li> 
+<li> <img align="right" src="Images/mobile%20(6).png" width="250" />MDB ⚒ </li> 
 <li> Extract the Framwork in Your Directroy and make sure u linked the assests example <code> link rel="stylesheet" href="mdb.css" </code> and add this card-tag in your <code> index.html </code></li>  
 <li> and have a little Joy ! ☕️  </li> 
 </figcaption>
